@@ -1,6 +1,4 @@
-# vue-template
-
-> A Vue.js project
+vue-cli2搭的一个项目开发模板，会逐渐完善
 
 ## Build Setup
 
@@ -19,3 +17,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
